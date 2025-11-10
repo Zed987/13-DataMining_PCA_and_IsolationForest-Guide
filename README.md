@@ -285,10 +285,41 @@ plt.show()
 
 ### 🔗 Notebook completo: [PCA_Analysis.ipynb](https://github.com/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/07be5a419f1e86c7cf02f417171896a2f549a2f6/Component%20Analysis%20(PCA)/Code/PCA_Based_Image_Code_Generation.ipynb)
 
+
 <br><br>
 
+## [Isolation Forest Implementation (Code + Results)]()
+
+Example using synthetic data:
+
+<br>
 
 
+```python
+from sklearn.ensemble import IsolationForest
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Generate synthetic data
+rng = np.random.RandomState(42)
+X = 0.3 * rng.randn(100, 2)
+X_outliers = rng.uniform(low=-4, high=4, size=(20, 2))
+X = np.r_[X + 2, X - 2, X_outliers]
+
+# Fit the model
+clf = IsolationForest(contamination=0.1, random_state=rng)
+clf.fit(X)
+
+# Predict anomalies
+y_pred = clf.predict(X)
+
+# Visualization
+plt.scatter(X[:, 0], X[:, 1], c=y_pred, cmap='coolwarm')
+plt.title("Isolation Forest - Anomaly Detection")
+plt.show()
+```
+
+<br><br>
 
 
 
