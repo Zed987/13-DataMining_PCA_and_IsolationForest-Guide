@@ -120,9 +120,9 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 ##  [Quick Access]()
 
-<br>
+<br><br>
 
-| Notebook | Run in Colab |
+| [Notebook]() | Run in Colab |
 |-----------|---------------|
 | * [PCA]() - Principal Component Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | * [Isolation Forest]() - Anomaly Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
