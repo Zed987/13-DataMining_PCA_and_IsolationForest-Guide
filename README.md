@@ -196,12 +196,19 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 ## [Bibliography]()
 
+<br>
 
-[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
+[1]() **Abdi, H. & Williams**C, L.J. Principal Component Analysis. Wiley Interdisciplinary Reviews, 2010.
 
-[2](). **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+[2](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
 
-[3](). **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
+[3](). **Dunteman**, J. Principal Component Analysis. SAGE Publications, 1989.
+
+[4](). **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+
+[5](). **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
+
+[6](). **Liu**, F.T. et al. Isolation Forest. IEEE ICDM, 2008.
 
 
 <br><br>
