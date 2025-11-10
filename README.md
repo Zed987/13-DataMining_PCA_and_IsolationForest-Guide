@@ -122,16 +122,13 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 <br><br>
 
-##  [Quick Access]()
+#  [Introduction]()
 
-<br><br>
+This project introduces core **Data Mining** concepts using simple, interpretable examples in Python.  
 
-| [Notebook]() | Run in Colab |
-|-----------|---------------|
-| * [PCA]() - Principal Component Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| * [Isolation Forest]() - Anomaly Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+It demonstrates how to clean data, reduce dimensionality using **PCA**, and detect anomalies with **Isolation Forest**.
 
-
+All code examples are easy to follow and include visualizations for learning and experimentation.
 
 <br><br>
 
