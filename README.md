@@ -137,15 +137,23 @@ All code examples are easy to follow and include visualizations for learning and
 ## [What is PCA ?]()
 
 **PCA (Principal Component Analysis)** simplifies large datasets by keeping the most important patterns while reducing noise and redundancy.  
+
 It’s like summarizing a book: you lose the extra words but keep the full meaning.
 
 
 <br><br>
 
 
+##  [How does PCA work ?]()
+
+1. Center and normalize your data.  
+2. Compute covariance matrix.  
+3. Extract eigenvectors (principal components).  
+4. Keep the top components explaining most of the variance.  
+5. Visualize results using biplots or scree plots.
 
 
-
+<br><br>
 
 
 
