@@ -156,8 +156,14 @@ It’s like summarizing a book: you lose the extra words but keep the full meani
 <br><br>
 
 
+## [What is the Isolation Forest Algorithm ?]()
+
+**Isolation Forest** is used for **anomaly detection** — spotting items that differ significantly from the majority.  
+
+It isolates anomalies by randomly splitting data and measuring how quickly a sample can be separated.
 
 
+<br><br>
 
 
 
