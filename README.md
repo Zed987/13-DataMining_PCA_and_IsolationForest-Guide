@@ -283,7 +283,7 @@ plt.show()
 
 <br>
 
-### 🔗 Notebook completo: [PCA_Analysis.ipynb]()
+### 🔗 Notebook completo: [PCA_Analysis.ipynb](https://github.com/Quantum-Software-Development/13-DataMining_PCA_and_IsolationForest-Guide/blob/07be5a419f1e86c7cf02f417171896a2f549a2f6/Component%20Analysis%20(PCA)/Code/PCA_Based_Image_Code_Generation.ipynb)
 
 <br><br>
 
